@@ -6,4 +6,4 @@ introduced is divided into two areas:
    -administrator: can add or delete cars from the database data and manage appointments and related check-out.
    -customer: any person can create an account with which they can view and rent one or more available cars or can view the booking history.
    
-   Used JCalenndar from https://toedter.com/jcalendar/ for date picker
+   Used JCalendar from https://toedter.com/jcalendar/ for date picker
